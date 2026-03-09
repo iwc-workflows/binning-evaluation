@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-03-03T15:10:21.009906",
+            "datePublished": "2026-03-09T10:49:09.848717",
             "hasPart": [
                 {
                     "@id": "MAGs-binning-evaluation.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/binning-evaluation",
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.38"
+            "engineVersion": ">=0.75.40"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
